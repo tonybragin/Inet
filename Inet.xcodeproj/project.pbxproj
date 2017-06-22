@@ -1,0 +1,252 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		EA34F87C1BC18FE300ABEA57 /* Lab24.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab24.html; path = ../Lab24.html; sourceTree = "<group>"; };
+		EA3B058A1C1BED9400C9B2AB /* lab212.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = lab212.html; path = ../lab212.html; sourceTree = "<group>"; };
+		EA3B058B1C1BF3F400C9B2AB /* lab213.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = lab213.html; path = ../lab213.html; sourceTree = "<group>"; };
+		EA3B058C1C1BF74A00C9B2AB /* lab31.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = lab31.html; path = ../lab31.html; sourceTree = "<group>"; };
+		EA3B058D1C1C7F1600C9B2AB /* lab214.html */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.html; name = lab214.html; path = ../lab214.html; sourceTree = "<group>"; };
+		EA3B058F1C1C7F4F00C9B2AB /* lab210.htm */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = lab210.htm; path = ../lab210.htm; sourceTree = "<group>"; };
+		EA3B05901C1C7F7600C9B2AB /* lab215.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = lab215.html; path = ../lab215.html; sourceTree = "<group>"; };
+		EA3B05921C1C891400C9B2AB /* lab32.htm */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = lab32.htm; path = ../lab32.htm; sourceTree = "<group>"; };
+		EA3B05931C1C893100C9B2AB /* data.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = data.xml; path = ../data.xml; sourceTree = "<group>"; };
+		EA3B05941C1C893200C9B2AB /* style.xsl */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = style.xsl; path = ../style.xsl; sourceTree = "<group>"; };
+		EA3B05961C1C89BE00C9B2AB /* lab34.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = lab34.html; path = ../lab34.html; sourceTree = "<group>"; };
+		EA3B05971C1C89D600C9B2AB /* lab3-4.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = "lab3-4.xml"; path = "../lab3-4.xml"; sourceTree = "<group>"; };
+		EA50A7541BF993F100EE641B /* Lab29.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab29.html; path = ../Lab29.html; sourceTree = "<group>"; };
+		EA50A7561BF9950400EE641B /* 291.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 291.html; path = ../291.html; sourceTree = "<group>"; };
+		EA50A7571BF9951A00EE641B /* 292.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 292.html; path = ../292.html; sourceTree = "<group>"; };
+		EA50A7581BF9953000EE641B /* 2911.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 2911.html; path = ../2911.html; sourceTree = "<group>"; };
+		EA50A7591BF9955300EE641B /* 2912.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 2912.html; path = ../2912.html; sourceTree = "<group>"; };
+		EA50A75A1BF9956B00EE641B /* 2913.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 2913.html; path = ../2913.html; sourceTree = "<group>"; };
+		EA50A75B1BF9958800EE641B /* 29w1.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 29w1.html; path = ../29w1.html; sourceTree = "<group>"; };
+		EA50A75C1BF995BB00EE641B /* 29w2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 29w2.html; path = ../29w2.html; sourceTree = "<group>"; };
+		EA50A75D1BF995BB00EE641B /* 29w3.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 29w3.html; path = ../29w3.html; sourceTree = "<group>"; };
+		EA50A75E1BF995BB00EE641B /* 29w4.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 29w4.html; path = ../29w4.html; sourceTree = "<group>"; };
+		EA50A7601C004A5400EE641B /* Lab211.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab211.html; path = ../Lab211.html; sourceTree = "<group>"; };
+		EA55B5871BE3378D006D3C73 /* Lab26.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab26.html; path = ../Lab26.html; sourceTree = "<group>"; };
+		EA55B5881BE33B40006D3C73 /* Lab27.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab27.html; path = ../Lab27.html; sourceTree = "<group>"; };
+		EA55B5891BE3933A006D3C73 /* Lab28.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab28.html; path = ../Lab28.html; sourceTree = "<group>"; };
+		EA55B58B1BF2F1BC006D3C73 /* Headc.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Headc.html; sourceTree = "<group>"; };
+		EA55B58D1BF2F1E6006D3C73 /* mainc.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = mainc.html; sourceTree = "<group>"; };
+		EA55B58E1BF2F1F9006D3C73 /* menu.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = menu.html; sourceTree = "<group>"; };
+		EA55B58F1BF2F207006D3C73 /* indexc.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = indexc.html; sourceTree = "<group>"; };
+		EA55B5901BF2F24F006D3C73 /* CURS.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = CURS.html; sourceTree = "<group>"; };
+		EA55B5911BF2FCE4006D3C73 /* history.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = history.html; sourceTree = "<group>"; };
+		EA55B5921BF2FCF7006D3C73 /* Music.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Music.html; sourceTree = "<group>"; };
+		EA55B5931BF2FD0E006D3C73 /* musicvideo.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = musicvideo.html; sourceTree = "<group>"; };
+		EA55B5941BF2FD21006D3C73 /* Albums.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Albums.html; sourceTree = "<group>"; };
+		EA55B5951BF2FD35006D3C73 /* Tours.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = Tours.html; sourceTree = "<group>"; };
+		EA59826A1BF3003000AB45C8 /* mainp.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = mainp.html; sourceTree = "<group>"; };
+		EA7E67FF1BBF805900FB10C2 /* Lab17.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab17.html; path = ../Lab17.html; sourceTree = "<group>"; };
+		EA9264751B9CA7720030707C /* Lab11.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab11.html; path = ../Lab11.html; sourceTree = "<group>"; };
+		EA9264761B9CA7A30030707C /* lab12.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = lab12.html; path = ../lab12.html; sourceTree = "<group>"; };
+		EA9264771B9CA7A30030707C /* Lab13.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab13.html; path = ../Lab13.html; sourceTree = "<group>"; };
+		EA9264781B9CA8A80030707C /* Lab14.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab14.html; path = ../Lab14.html; sourceTree = "<group>"; };
+		EA9264791B9CACD50030707C /* Lab15.html */ = {isa = PBXFileReference; explicitFileType = text.html; name = Lab15.html; path = ../Lab15.html; sourceTree = "<group>"; };
+		EA92647A1B9CAD0F0030707C /* Main.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Main.html; path = ../Main.html; sourceTree = "<group>"; };
+		EA92647B1B9CAD3D0030707C /* Head.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Head.html; path = ../Head.html; sourceTree = "<group>"; };
+		EA92647C1B9CAD580030707C /* Index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Index.html; path = ../Index.html; sourceTree = "<group>"; };
+		EA9C63681BCE7F3700F159B5 /* Lab25.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab25.html; path = ../Lab25.html; sourceTree = "<group>"; usesTabs = 1; };
+		EA9C636A1BCE809000F159B5 /* 251.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 251.html; path = ../251.html; sourceTree = "<group>"; };
+		EA9C636B1BCE80C600F159B5 /* 252.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 252.html; path = ../252.html; sourceTree = "<group>"; };
+		EA9C636C1BCE80C600F159B5 /* 253.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 253.html; path = ../253.html; sourceTree = "<group>"; };
+		EA9C636D1BCE80C600F159B5 /* 254.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = 254.html; path = ../254.html; sourceTree = "<group>"; };
+		EAA2387A1BAD330C00B2C2BF /* d2.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = d2.html; path = ../d2.html; sourceTree = "<group>"; };
+		EAA2387B1BAD330C00B2C2BF /* d3.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = d3.html; path = ../d3.html; sourceTree = "<group>"; };
+		EAA2387C1BAD330C00B2C2BF /* d4.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = d4.html; path = ../d4.html; sourceTree = "<group>"; };
+		EAA2387D1BAD330C00B2C2BF /* d5.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = d5.html; path = ../d5.html; sourceTree = "<group>"; };
+		EAA2387E1BAD331600B2C2BF /* d6.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = d6.html; path = ../d6.html; sourceTree = "<group>"; };
+		EAA2387F1BAD332E00B2C2BF /* d1.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = d1.html; path = ../d1.html; sourceTree = "<group>"; };
+		EAA238811BAD376A00B2C2BF /* Lab16.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = Lab16.html; path = ../Lab16.html; sourceTree = "<group>"; };
+		EAA238821BAD380C00B2C2BF /* img.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = img.html; path = ../img.html; sourceTree = "<group>"; };
+		EAA238831BAD3BC500B2C2BF /* g.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = g.html; path = ../g.html; sourceTree = "<group>"; };
+		EAA238851BAD42C100B2C2BF /* b.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = b.html; path = ../b.html; sourceTree = "<group>"; };
+		EAA238861BAD439100B2C2BF /* l.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = l.html; path = ../l.html; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		EA3B05951C1C894300C9B2AB /* 3.3 */ = {
+			isa = PBXGroup;
+			children = (
+				EA3B05931C1C893100C9B2AB /* data.xml */,
+				EA3B05941C1C893200C9B2AB /* style.xsl */,
+			);
+			name = 3.3;
+			sourceTree = "<group>";
+		};
+		EA3B05981C1C89E000C9B2AB /* 3.4 */ = {
+			isa = PBXGroup;
+			children = (
+				EA3B05961C1C89BE00C9B2AB /* lab34.html */,
+				EA3B05971C1C89D600C9B2AB /* lab3-4.xml */,
+			);
+			name = 3.4;
+			sourceTree = "<group>";
+		};
+		EA50A7551BF994D700EE641B /* 2.9 */ = {
+			isa = PBXGroup;
+			children = (
+				EA50A7541BF993F100EE641B /* Lab29.html */,
+				EA50A7561BF9950400EE641B /* 291.html */,
+				EA50A7571BF9951A00EE641B /* 292.html */,
+				EA50A7581BF9953000EE641B /* 2911.html */,
+				EA50A7591BF9955300EE641B /* 2912.html */,
+				EA50A75A1BF9956B00EE641B /* 2913.html */,
+				EA50A75B1BF9958800EE641B /* 29w1.html */,
+				EA50A75C1BF995BB00EE641B /* 29w2.html */,
+				EA50A75D1BF995BB00EE641B /* 29w3.html */,
+				EA50A75E1BF995BB00EE641B /* 29w4.html */,
+			);
+			name = 2.9;
+			sourceTree = "<group>";
+		};
+		EA55B58C1BF2F1C6006D3C73 /* CURS */ = {
+			isa = PBXGroup;
+			children = (
+				EA55B5901BF2F24F006D3C73 /* CURS.html */,
+				EA55B58B1BF2F1BC006D3C73 /* Headc.html */,
+				EA55B58D1BF2F1E6006D3C73 /* mainc.html */,
+				EA55B58E1BF2F1F9006D3C73 /* menu.html */,
+				EA55B58F1BF2F207006D3C73 /* indexc.html */,
+				EA59826A1BF3003000AB45C8 /* mainp.html */,
+				EA55B5911BF2FCE4006D3C73 /* history.html */,
+				EA55B5921BF2FCF7006D3C73 /* Music.html */,
+				EA55B5941BF2FD21006D3C73 /* Albums.html */,
+				EA55B5931BF2FD0E006D3C73 /* musicvideo.html */,
+				EA55B5951BF2FD35006D3C73 /* Tours.html */,
+			);
+			name = CURS;
+			sourceTree = "<group>";
+		};
+		EA92646E1B9CA7470030707C = {
+			isa = PBXGroup;
+			children = (
+				EA9264751B9CA7720030707C /* Lab11.html */,
+				EA9264761B9CA7A30030707C /* lab12.html */,
+				EA9264771B9CA7A30030707C /* Lab13.html */,
+				EA9264781B9CA8A80030707C /* Lab14.html */,
+				EAA238781BAD31EF00B2C2BF /* 1.5 */,
+				EAA238801BAD372100B2C2BF /* 1.6 */,
+				EA7E67FF1BBF805900FB10C2 /* Lab17.html */,
+				EA34F87C1BC18FE300ABEA57 /* Lab24.html */,
+				EA9C63691BCE805E00F159B5 /* 2.5 */,
+				EA55B5871BE3378D006D3C73 /* Lab26.html */,
+				EA55B5881BE33B40006D3C73 /* Lab27.html */,
+				EA55B5891BE3933A006D3C73 /* Lab28.html */,
+				EA50A7551BF994D700EE641B /* 2.9 */,
+				EA3B058F1C1C7F4F00C9B2AB /* lab210.htm */,
+				EA50A7601C004A5400EE641B /* Lab211.html */,
+				EA3B058A1C1BED9400C9B2AB /* lab212.html */,
+				EA3B058B1C1BF3F400C9B2AB /* lab213.html */,
+				EA3B058D1C1C7F1600C9B2AB /* lab214.html */,
+				EA3B05901C1C7F7600C9B2AB /* lab215.html */,
+				EA3B058C1C1BF74A00C9B2AB /* lab31.html */,
+				EA3B05921C1C891400C9B2AB /* lab32.htm */,
+				EA3B05951C1C894300C9B2AB /* 3.3 */,
+				EA3B05981C1C89E000C9B2AB /* 3.4 */,
+				EA55B58C1BF2F1C6006D3C73 /* CURS */,
+			);
+			sourceTree = "<group>";
+		};
+		EA9C63691BCE805E00F159B5 /* 2.5 */ = {
+			isa = PBXGroup;
+			children = (
+				EA9C63681BCE7F3700F159B5 /* Lab25.html */,
+				EA9C636A1BCE809000F159B5 /* 251.html */,
+				EA9C636B1BCE80C600F159B5 /* 252.html */,
+				EA9C636C1BCE80C600F159B5 /* 253.html */,
+				EA9C636D1BCE80C600F159B5 /* 254.html */,
+			);
+			name = 2.5;
+			sourceTree = "<group>";
+		};
+		EAA238781BAD31EF00B2C2BF /* 1.5 */ = {
+			isa = PBXGroup;
+			children = (
+				EA9264791B9CACD50030707C /* Lab15.html */,
+				EA92647A1B9CAD0F0030707C /* Main.html */,
+				EA92647B1B9CAD3D0030707C /* Head.html */,
+				EA92647C1B9CAD580030707C /* Index.html */,
+				EAA2387F1BAD332E00B2C2BF /* d1.html */,
+				EAA2387A1BAD330C00B2C2BF /* d2.html */,
+				EAA2387B1BAD330C00B2C2BF /* d3.html */,
+				EAA2387C1BAD330C00B2C2BF /* d4.html */,
+				EAA2387D1BAD330C00B2C2BF /* d5.html */,
+				EAA2387E1BAD331600B2C2BF /* d6.html */,
+			);
+			name = 1.5;
+			sourceTree = "<group>";
+		};
+		EAA238801BAD372100B2C2BF /* 1.6 */ = {
+			isa = PBXGroup;
+			children = (
+				EAA238811BAD376A00B2C2BF /* Lab16.html */,
+				EAA238821BAD380C00B2C2BF /* img.html */,
+				EAA238851BAD42C100B2C2BF /* b.html */,
+				EAA238831BAD3BC500B2C2BF /* g.html */,
+				EAA238861BAD439100B2C2BF /* l.html */,
+			);
+			name = 1.6;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		EA92646F1B9CA7470030707C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = EA9264721B9CA7470030707C /* Build configuration list for PBXProject "Inet" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EA92646E1B9CA7470030707C;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		EA9264731B9CA7470030707C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ENABLE_TESTABILITY = YES;
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		EA9264741B9CA7470030707C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EA9264721B9CA7470030707C /* Build configuration list for PBXProject "Inet" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EA9264731B9CA7470030707C /* Debug */,
+				EA9264741B9CA7470030707C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EA92646F1B9CA7470030707C /* Project object */;
+}

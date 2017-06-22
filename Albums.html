@@ -1,0 +1,160 @@
+<html>
+<head>
+    <META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html" charset="utf-8">
+    <script language="JavaScript">
+        var timeid;
+        function setHW()
+        {
+            document.homework.src = "Daftpunk-homework_Fotor.jpg";
+            timeid = setInterval(biggerHW, 70);
+        }
+        function biggerHW()
+        {
+            if (document.homework.width < 350 && document.homework.height < 350)
+            {
+                document.homework.width += 10;
+                document.homework.height += 10;
+            }
+        }
+        function smallerHW()
+        {
+            clearInterval(timeid);
+            document.homework.width = 200
+            document.homework.height = 200
+            document.homework.src = "Daftpunk-homework.jpg";
+        }
+    
+    function setdis()
+    {
+        document.dis.src = "Daft_Punk_-_Discovery_Fotor.jpg";
+        timeid = setInterval(biggerdis, 70);
+    }
+    function biggerdis()
+    {
+        if (document.dis.width < 350 && document.dis.height < 350)
+        {
+            document.dis.width += 10;
+            document.dis.height += 10;
+        }
+    }
+    function smallerdis()
+    {
+        clearInterval(timeid);
+        document.dis.width = 200
+        document.dis.height = 200
+        document.dis.src = "Daft_Punk_-_Discovery.jpg";
+    }
+    
+    function sethum()
+    {
+        document.hum.src = "Daft_Punk_Human_After_Fotor.jpg";
+        timeid = setInterval(biggerhum, 70);
+    }
+    function biggerhum()
+    {
+        if (document.hum.width < 350 && document.hum.height < 350)
+        {
+            document.hum.width += 10;
+            document.hum.height += 10;
+        }
+    }
+    function smallerhum()
+    {
+        clearInterval(timeid);
+        document.hum.width = 200
+        document.hum.height = 200
+        document.hum.src = "Daft_Punk_Human_After.jpg";
+    }
+    
+    
+    
+    function setalive()
+    {
+        document.alive.src = "Daft_Punk_-_Alive_2007_Fotor.jpg";
+        timeid = setInterval(biggeralive, 70);
+    }
+    function biggeralive()
+    {
+        if (document.alive.width < 350 && document.alive.height < 350)
+        {
+            document.alive.width += 10;
+            document.alive.height += 10;
+        }
+    }
+    function smalleralive()
+    {
+        clearInterval(timeid);
+        document.alive.width = 200
+        document.alive.height = 200
+        document.alive.src = "Daft_Punk_-_Alive_2007.jpg";
+    }
+    
+    function settron()
+    {
+        document.tron.src = "TRON-LEGACY_Fotor.jpg";
+        timeid = setInterval(biggertron, 70);
+    }
+    function biggertron()
+    {
+        if (document.tron.width < 350 && document.tron.height < 350)
+        {
+            document.tron.width += 10;
+            document.tron.height += 10;
+        }
+    }
+    function smallertron()
+    {
+        clearInterval(timeid);
+        document.tron.width = 200
+        document.tron.height = 200
+        document.tron.src = "TRON-LEGACY.jpg";
+    }
+    
+    function setrand()
+    {
+        document.rand.src = "Random_Access_Memories_Fotor.jpg";
+        timeid = setInterval(biggerrand, 70);
+    }
+    function biggerrand()
+    {
+        if (document.rand.width < 350 && document.rand.height < 350)
+        {
+            document.rand.width += 10;
+            document.rand.height += 10;
+        }
+    }
+    function smallerrand()
+    {
+        clearInterval(timeid);
+        document.rand.width = 200
+        document.rand.height = 200
+        document.rand.src = "Random_Access_Memories.jpg";
+    }
+    </script>
+</head>
+<body>
+<table align = center width = "70%" height = "80%" border = 0, cellspacing = 0, cellpadding = 0>
+    <tr>
+        <td align = center><a href="#">
+            <img src = "Daftpunk-homework.jpg" name = "homework" width = 200 height = 200 onMouseOver = "setHW()" onMouseOut = "smallerHW()">
+        </td></a>
+        <td align = center><a href="#">
+        <img src = "Daft_Punk_-_Discovery.jpg" name = "dis" width = 200 height = 200 onMouseOver = "setdis()" onMouseOut = "smallerdis()">
+        </td></a>
+        <td align = center><a href="#">
+        <img src="Daft_Punk_Human_After.jpg" name = "hum" width = 200 height = 200 onMouseOver = "sethum()" onMouseOut = "smallerhum()">
+        </td></a>
+    </tr>
+    <tr>
+        <td align = center><a href="#">
+        <img src="Daft_Punk_-_Alive_2007.jpg" name="alive" width = 200 height = 200 onMouseOver = "setalive()" onMouseOut = "smalleralive()">
+        </td></a>
+        <td align = center><a href="#">
+        <img src="TRON-LEGACY.jpg" name="tron" width = 200 height = 200 onMouseOver = "settron()" onMouseOut = "smallertron()">
+        </td></a>
+        <td align = center><a href="#">
+        <img src="Random_Access_Memories.jpg" name="rand" width = 200 height = 200 onMouseOver = "setrand()" onMouseOut = "smallerrand()">
+        </td></a>
+    
+</body>
+</html>
